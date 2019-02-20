@@ -4,7 +4,7 @@
 
 <p>  The original controller was built using an Arduino Leonardo (ATMega 32u4 microcontroller), but because the Leonardo was discontinued by Arduino, the code is being ported for use with the Teensy 3-series (Teensy 3.0/3.1/3.2 and Teensy LC).  The code to utilize the Teensy microcontroller dev boards is a work-in-progress, but if you have an ATMEL ATMega 32u4 dev board that is compatible with the Arduino IDE, the code should be perfectly useable as long as you set up the pinout variables correctly.</p>
 
-<h4>Authors</h4>
+<h3>Authors</h3>
 <ul>
   <li>Matt Stanton</li>
   <li>Jason Bunn</li>
